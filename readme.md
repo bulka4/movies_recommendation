@@ -1,8 +1,6 @@
 Here I create a few recommendations systems for movies using data with users ratings.
 
 # setting up environment
-git clone https://github.com/bulka4/movies_recommendation.git  
-cd movies_recommendation
 ## create virtual environment
 python -m venv venv
 ## activating venv for Windows:
